@@ -20,7 +20,7 @@ The development plan is currently this:
 * Text messages through the server
 * Matchmaking with the server.
 ## Can I contribute?
-Yes.
+Yes, you can follow the contribution guide.
 ## Can I use the code used for Omiigle?
 On the following circumstances.
 * You can only use it for **REFERENCE**. You can't copy everything.
